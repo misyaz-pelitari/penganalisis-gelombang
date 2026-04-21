@@ -1,12 +1,10 @@
 # :musical_score: PENGANALISIS GELOMBANG
 
-> *"
-إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًۭا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ ٢
+> *"إِنَّمَا ٱلْمُؤْمِنُونَ ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتْ قُلُوبُهُمْ وَإِذَا تُلِيَتْ عَلَيْهِمْ ءَايَـٰتُهُۥ زَادَتْهُمْ إِيمَـٰنًۭا وَعَلَىٰ رَبِّهِمْ يَتَوَكَّلُونَ ٢
 
 Sesungguhnya orang-orang yang beriman itu (yang sempurna imannya) ialah mereka yang apabila disebut nama Allah (dan sifat-sifatNya) gementarlah hati mereka; dan apabila dibacakan kepada mereka ayat-ayatNya, menjadikan mereka bertambah iman, dan kepada Tuhan mereka jualah mereka berserah.
 
-Surah Al-Anfaal : Ayat 2"*
-> — **misyaz-pelitari**
+Surah Al-Anfaal : Ayat 2"* > — **misyaz-pelitari**
 
 ---
 
