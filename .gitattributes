@@ -1,0 +1,26 @@
+# Git Attributes
+# https://git-scm.com/docs/gitattributes
+
+* text=auto
+
+# Python
+*.py linguist-documentation=false
+*.py linguist-vendored=false
+
+# Documentation
+*.md linguist-documentation=true
+
+# Images
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.gif linguist-vendored
+*.svg linguist-vendored
+
+# Data files
+*.wav linguist-vendored
+*.mp3 linguist-vendored
+*.flac linguist-vendored
+*.ogg linguist-vendored
+
+# Jupyter
+*.ipynb linguist-documentation=false
