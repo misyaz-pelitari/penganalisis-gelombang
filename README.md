@@ -48,9 +48,16 @@ Melaluinya, anda boleh melihat:
 
 Pastikan Python 3.7 atau versi yang lebih baharu telah terpasang di peranti anda.
 
-### :wrench: Pasang Pustaka
+### :wrench: Beri Arahan Secara Automatik @ Pasang Pustaka Secara Manual
 
-Pasang semua pustaka yang diperlukan dengan satu perintah:
+Arahan bagi pemasangan automatik:
+
+```bash
+python penganalisis-gelombang.py --setup-venv
+```
+
+
+Pasang semua pustaka secara manual yang diperlukan dengan satu perintah:
 
 ```bash
 pip install -r requirements_windows.txt   # Untuk Windows
@@ -58,11 +65,6 @@ pip install -r requirements_linux.txt     # Untuk Linux
 pip install -r requirements_termux.txt    # Untuk Termux/Android
 ```
 
-Atau gunakan fungsi setup dalam skrip:
-
-```bash
-python penganalisis-gelombang.py --setup-venv
-```
 
 ### :clapper: Menjalankan Analisis
 
