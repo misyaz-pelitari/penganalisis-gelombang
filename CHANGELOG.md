@@ -10,7 +10,7 @@ Format adalah berdasarkan [Keep a Changelog](https://keepachangelog.com/ms-MS/1.
 
 ### Yang Ditambah
 
-- :musical_note: Versi pertama发行
+- :musical_note: Versi pertama
 - :bar_chart: Analisis audio dengan visualisasi
 - :rainbow: Visualisasi 3D interaktif (Plotly)
 - :microscope: MFCC, Kromagram, Ciri Spektrum
@@ -23,7 +23,7 @@ Format adalah berdasarkan [Keep a Changelog](https://keepachangelog.com/ms-MS/1.
 - :arrow_left: Menu sub dengan pilihan K/U/P
 - :flag_ms: Bahasa Melayu aras tinggi dengan gaya sastera
 
-### Yang Ditukar
+### Yang Dikemaskini
 
 - :art: Penambahbaikan antara muka pengguna
 - :speech_balloon: Mesej dalam bahasa Melayu yang lebih elegan
