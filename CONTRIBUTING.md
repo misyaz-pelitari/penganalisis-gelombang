@@ -7,7 +7,7 @@ Terima kasih atas minat anda untuk menyumbang kepada projek ini!
 1. **Fork** repo ini
 2. **Clone** fork anda: 
    ```bash
-   git clone https://github.com/username/penganalisis-gelombang.git
+   git clone https://github.com/username-anda/penganalisis-gelombang.git
    ```
 3. **Ciptakan branch** baharu: 
    ```bash
