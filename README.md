@@ -155,7 +155,7 @@ Naskhah ini menghimpunkan ilmu dari pelbagai sumber terkemuka di GitHub:
 
 ## :scroll: Lesen
 
-Projek ini dilesenkan di bawah Lesen MIT — bebas untuk digunakan, diubah suai, dan diedarkan dengan penuh hormat.
+Projek ini dilesenkan di bawah Lesen MIT di atas nama misyaz-pelitari - bebas untuk digunakan, diubah suai, dan diedarkan dengan penuh hormat.
 
 ---
 
